@@ -14,3 +14,7 @@ Linux. В планах собрать Linux From Scratch (сейчас испо�
 ## Последний commit
 commit bc83b81825fd3528170d3876a43082920baeadd6 (HEAD -> develop, data-engineer-course/develop)
 Date:   Mon Oct 31 22:33:17 2022 +0800
+## Репозиторий коллеги
+https://github.com/Ragnarok-039/DE_Sprint.git
+## Последний commit коллеги
+commit 1e412b7f8635d91f9a039c0808ec4418be77765e (HEAD -> master, origin/master, origin/HEAD)
